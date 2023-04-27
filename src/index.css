@@ -1,0 +1,16 @@
+.app{
+    background-color: #00AFB9;
+    min-height: 600px;
+    display: flex;
+  /* justify-content: center; */
+  align-items: center
+}
+.app h1 {
+   background-color: bisque;
+   width: 350px;
+   height: 45px;
+   padding:8px 8px;
+   border: 2px solid #23494a;
+   border-radius: 15px;
+   margin: 0 auto;
+}
